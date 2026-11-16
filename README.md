@@ -2,6 +2,17 @@
 
 Skills for combating misinformation, built on Skeptical Science's method. The cited evidence base lives in [`research/`](research/); credits and licenses in [`ATTRIBUTION.md`](ATTRIBUTION.md).
 
+## Install
+
+The skills follow the open [Agent Skills](https://agentskills.io) standard, and this public repo is a skill repo: anyone can install them with the [skills](https://skills.sh) CLI into 75+ coding agents, and the repo is indexed on [skills.sh](https://skills.sh).
+
+```bash
+npx skills add boukepostma/misinformation-skills                 # both skills
+npx skills add boukepostma/misinformation-skills --skill myth-debunk
+```
+
+`myth-debunk` ships with the bundled myth catalog (`topics/`), so each install is self-contained.
+
 ## Skills
 
 - [myth-debunk](skills/myth-debunk/SKILL.md) — end-user skill: given a misinformation claim, produce an evidence-based rebuttal in chat (Fact–Myth–Fallacy plus the full picture), grounded in the bundled myth catalog when matched, researched on the fly via `myth-research` when not.

@@ -6,6 +6,7 @@ Skills for combating misinformation, built on Skeptical Science's method. The ci
 
 - [myth-debunk](skills/myth-debunk/SKILL.md) — end-user skill: given a misinformation claim, produce an evidence-based rebuttal in chat (Fact–Myth–Fallacy plus the full picture), grounded in the bundled myth catalog when matched, researched on the fly via `myth-research` when not.
 - [myth-research](skills/myth-research/SKILL.md) — investigate a new myth against primary sources and return a structured myth entry. Invoked by `myth-debunk` on catalog misses; run by repo developers when adding myths (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).
+- [myth-response](skills/myth-response/SKILL.md) — end-user skill: given any input text containing misinformation claims (e.g. an email), produce a ready-to-send response that names each reasoning error per claim, grounded in the bundled myth catalog via `myth-debunk` / `myth-research`.
 
 ## Docs
 

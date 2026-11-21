@@ -25,7 +25,7 @@ An evidence-based correction of a myth, structured Fact–Myth–Fallacy: state 
 _Avoid_: debunk, takedown, correction
 
 **Technique**:
-The rhetorical or logical device a myth uses to mislead — FLICC: fake experts, logical fallacies, impossible expectations, cherry picking, conspiracy theories. Preferred over "fallacy" because it also covers non-logical devices.
+The rhetorical or logical device a myth uses to mislead — FLICC: fake experts, logical fallacies, impossible expectations, cherry picking, conspiracy theories. Preferred over "fallacy" because it also covers non-logical devices. Full taxonomy of all 34 sub-techniques with definitions and examples: [`docs/techniques/flicc.md`](docs/techniques/flicc.md).
 
 _Avoid_: fallacy, gimmick, trick
 

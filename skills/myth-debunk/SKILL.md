@@ -15,7 +15,7 @@ Works on any agent harness. Answers in chat only — never writes files.
    1. **Warn** the reader a myth is coming (puts them on guard)
    2. State the **Fact** — a sticky replacement that fills the causal gap the myth leaves
    3. Name the **Myth**
-   4. Expose the **Technique** it uses (FLICC: fake experts, logical fallacies, impossible expectations, cherry picking, conspiracy theories)
+   4. Expose the **Technique** it uses — the myth file's `technique` slug resolved via [`docs/techniques/flicc.md`](../../../docs/techniques/flicc.md): name the sub-technique (e.g. "cherry-picking — specifically moving goalposts") and give its definition
    5. Present the **Full picture** — multiple independent lines of evidence, not one counter-study
 
    Done when all five elements appear in that order.

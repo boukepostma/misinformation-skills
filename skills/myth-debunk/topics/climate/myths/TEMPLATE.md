@@ -1,7 +1,7 @@
 ---
 sks_number: NNN
 sks_url: https://skepticalscience.com/argument.php?a=...
-technique: cherry-picking
+technique: cherry-picking # FLICC slug — most specific sub-technique from docs/techniques/flicc.yaml, category slug as fallback (see docs/techniques/flicc.md)
 last_synced: YYYY-MM-DD
 ---
 

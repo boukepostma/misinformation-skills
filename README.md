@@ -25,5 +25,6 @@ npx skills add boukepostma/misinformation-skills --skill myth-debunk
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — add myths and topics as a repo developer
 - [`ATTRIBUTION.md`](ATTRIBUTION.md) — credits and licenses
 - [`research/`](research/) — primary-source research notes feeding the skills
+- [`docs/techniques/`](docs/techniques/) — FLICC taxonomy: all 34 sub-techniques with definitions and examples (`flicc.md`) plus machine-readable slugs for myth-file frontmatter (`flicc.yaml`)
 - [`docs/adr/`](docs/adr/) — decision records
 - [`docs/agents/`](docs/agents/) — issue tracker and label conventions used by the engineering flow

@@ -1,0 +1,46 @@
+# Valid slugs for the `technique:` frontmatter field in myth files.
+# Canonical reference (definitions + examples): docs/techniques/flicc.md
+# Each category lists its own slug first (the generic fallback), then its sub-techniques.
+categories:
+  fake-experts:
+    - fake-experts
+    - bulk-fake-experts
+    - magnified-minority
+  logical-fallacies:
+    - logical-fallacy
+    - fake-debate
+    - misrepresentation
+    - straw-man
+    - ad-hominem
+    - ambiguity
+    - slippery-slope
+    - oversimplification
+    - false-choice
+    - single-cause
+    - red-herring
+    - blowfish
+    - false-equivalence
+    - false-analogy
+  impossible-expectations:
+    - impossible-expectations
+    - moving-goalposts
+    - lowered-expectations
+    - anchoring
+  cherry-picking:
+    - cherry-picking
+    - anecdote
+    - slothful-induction
+  conspiracy-theories:
+    - conspiracy-theory
+    - quote-mining
+    - wishful-thinking
+    - contradictory
+    - overriding-suspicion
+    - nefarious-intent
+    - something-must-be-wrong
+    - persecuted-victim
+    - immune-to-evidence
+    - reinterpreting-randomness
+# Used in myth files but not part of the FLICC taxonomy (SkS claim category)
+non_flicc:
+  - solutions-denial
